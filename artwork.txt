@@ -1,2 +1,2 @@
-face.png
-ok.gif
+face.png | rose
+ok.gif | data5
