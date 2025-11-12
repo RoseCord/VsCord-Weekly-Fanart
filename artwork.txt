@@ -1,6 +1,5 @@
 face.png | rose
 ok.gif | data5
-ok.gif | data5
 scary.png | data5
 4.png | data5
 5.png | data5
